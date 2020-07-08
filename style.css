@@ -1,0 +1,70 @@
+.container{
+    margin-bottom:100px;
+    width: 100%;
+}
+
+.img-logo{
+  
+    width: 195px;
+    height: 59px;
+    left: 212px;
+    top:30px;
+}
+.sing-in-button{
+    background-color: #21b573;
+    color:white;
+    border: none;
+    border-radius: 33px;
+    padding: 2px 30px;
+    margin: 20px 5px;
+}
+.nav-item{
+    color:black;
+    padding: 20px;
+}
+.topics img{
+     width: 100px;
+     
+}
+.col-md-3{
+    padding: 30px 0px;
+}
+
+.row h6{
+    color: rgb(255, 94, 0);
+}
+h1{
+    font-family: 'Ubuntu', sans-serif;
+}
+h2{
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+}
+.color{
+    color: #21b573;
+}
+.row .topics{
+    padding-left: 150px;
+}
+
+.card-footer img{
+       width: 30px;
+       
+}
+h5{
+    color:rgb(110, 90, 128);
+}
+.man img{
+    width: 250px;
+}
+.contuct-bg{
+    background-color: blanchedalmond;
+    height: 300px;
+}
+.last-section{
+    background-color: rgb(33, 22, 37);
+    color: white;
+}
+footer{
+    text-align: center;
+}
