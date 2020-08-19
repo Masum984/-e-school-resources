@@ -1,3 +1,7 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
 .container{
     margin-bottom:100px;
     width: 100%;
@@ -40,6 +44,10 @@ h2{
     font-family: 'Ubuntu', sans-serif;
     text-align: center;
 }
+.card{
+    border-radius: 20px;
+    box-shadow: 40px 40px grey;
+}
 .color{
     color: #21b573;
 }
@@ -60,11 +68,19 @@ h5{
 .contuct-bg{
     background-color: blanchedalmond;
     height: 300px;
+    margin-bottom: 0px;
+    margin-top: 40px;
 }
 .last-section{
     background-color: rgb(33, 22, 37);
     color: white;
+    margin-bottom: 0px;
+    padding-bottom: 100px;
 }
 footer{
     text-align: center;
+    
+}
+.header-slider{
+    margin-top: 100px;
 }
